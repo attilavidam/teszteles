@@ -1,0 +1,2 @@
+# teszteles
+tanulás, tesztelés
